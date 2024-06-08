@@ -29,12 +29,16 @@
   - Different classifications based on population metrics according to age and sex
 * Dark/Light mode
 * Cross platform
+* Language: Portuguese (PT-BR)
 
 ## Install
 
-To install this application, you'll need [Java SDK 17+](https://openjdk.org/projects/jdk/17/), [Maven](https://maven.apache.org/) and [JavaFX](https://openjfx.io/) installed on your machine 
+To install this application, you'll first need to have the following installed on your machine: 
+- [Java SDK 17+](https://openjdk.org/projects/jdk/17/)
+- [Maven](https://maven.apache.org/)
+- [JavaFX](https://openjfx.io/)  
 
-From your command line:
+After that, run from your command line:
 
 ```bash
 # Clone this repository
@@ -60,7 +64,10 @@ This software uses the following Open Source packages:
 - [JavaFX](https://openjfx.io/)
 - [AtlantaFx](https://github.com/mkpaz/atlantafx)
 
+
 ## Context
 
-Developed as a introduction to JavaFX and as an exercise to apply design patterns and SOLID with Java. Discipline: Object-Oriented Programming / CTDS / IFSC / 2024.1
+Developed as a introduction to JavaFX and as an exercise to apply design patterns and SOLID with Java. 
+
+Discipline: Object-Oriented Programming / CTDS / IFSC / 2024.1
 
