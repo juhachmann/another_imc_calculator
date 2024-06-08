@@ -17,7 +17,7 @@
 </p>
 
 <div align="center">
-  <img src="https://github.com/juhachmann/imc_gui/blob/main/imc_demo.gif" width="70%" height="70%" alt="Demo">
+  <img src="https://github.com/juhachmann/imc_gui/blob/main/imc_demo2.gif" width="70%" height="70%" alt="Demo">
 </div>
 
 
