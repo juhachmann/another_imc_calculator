@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.image.Image?>
+<?import atlantafx.base.controls.ToggleSwitch?>
+<?import javafx.scene.text.Text?>
+<?import javafx.scene.layout.GridPane?>
+
+<VBox spacing="40" stylesheets="@../css/nord-dark.css" fx:controller="com.github.juhachmann.controller.TopBarController" xmlns:fx="http://javafx.com/fxml" alignment="TOP_CENTER">
+    <HBox GridPane.columnIndex="1" alignment="CENTER_RIGHT" spacing="10">
+        <Text fx:id="themeText" />
+        <ToggleSwitch fx:id="darkModeSwitchBtn" onMouseClicked="#toggleSwitch" />
+    </HBox>
+    <ImageView >
+        <Image url="@../img/blue-heart.png"/>
+    </ImageView>
+
+    <Text styleClass="title-2, text, accent" text="Calculadora IMC" />
+
+   </VBox>
