@@ -7,7 +7,7 @@
   <br>
 </h1>
 
-<h4 align="center">Another simple IMC Calculator desktop app built with JavaFX </h4>
+<h4 align="center">Simple & beautiful IMC Calculator desktop app built with JavaFX </h4>
 
 <p align="center">
   <a href="#features">Features</a> •
