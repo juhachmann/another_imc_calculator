@@ -9,13 +9,10 @@
 
 <h4 align="center">Simple & beautiful IMC Calculator desktop app built with JavaFX </h4>
 
-> Developed as a introduction to JavaFX and an exercise to apply design patterns and SOLID with Java 
-
 <p align="center">
   <a href="#features">Features</a> •
   <a href="#install">Install</a> •
-  <a href="#credits">Credits</a> •
-  <a href="#context">Context</a> •
+  <a href="#credits">Credits</a>
 </p>
 
 <div align="center">
@@ -66,6 +63,8 @@ This software uses the following Open Source packages:
 - [JavaFX](https://openjfx.io/)
 - [AtlantaFx](https://github.com/mkpaz/atlantafx)
 
+- - - 
+Developed as a introduction to JavaFX and an exercise to apply design patterns and SOLID with Java 
 
 Discipline: Object-Oriented Programming / CTDS / IFSC / 2024.1
 
