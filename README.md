@@ -9,6 +9,8 @@
 
 <h4 align="center">Simple & beautiful IMC Calculator desktop app built with JavaFX </h4>
 
+> Developed as a introduction to JavaFX and an exercise to apply design patterns and SOLID with Java 
+
 <p align="center">
   <a href="#features">Features</a> •
   <a href="#install">Install</a> •
@@ -42,10 +44,10 @@ After that, run from your command line:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/juhachmann/imc_gui
+$ git clone https://github.com/juhachmann/another_imc_calculator
 
 # Go into the repository
-$ cd imc_gui
+$ cd another_imc_calculator
 
 # Run the app
 $ mvn javafx:run
@@ -64,10 +66,6 @@ This software uses the following Open Source packages:
 - [JavaFX](https://openjfx.io/)
 - [AtlantaFx](https://github.com/mkpaz/atlantafx)
 
-
-## Context
-
-Developed as a introduction to JavaFX and as an exercise to apply design patterns and SOLID with Java. 
 
 Discipline: Object-Oriented Programming / CTDS / IFSC / 2024.1
 
